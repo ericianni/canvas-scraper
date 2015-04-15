@@ -1,0 +1,19 @@
+.course {
+    padding-left: 10px;
+}
+
+.todo {
+    margin-left: 20px;
+}
+
+.module {
+    padding-left: 20px;
+}
+
+body {
+    max-width: 600px;
+}
+
+div > div {
+    background-color: lightgrey;
+}
